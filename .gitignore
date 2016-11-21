@@ -1,0 +1,43 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.pyc
+
+pids
+logs
+results
+env.json
+npm-debug.log
+node_modules
+
+# IntelliJ
+
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+.DS_Store
+log/
+target/
+dump.rdb
+
+# Sublime project files
+*.sublime*
+
+env.json
+environment-prod.sh
+out
+api-docs
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

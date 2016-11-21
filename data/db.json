@@ -1,0 +1,17 @@
+{
+  "topics": [
+    {
+      "id": "arn:aws:sns:local:df2325cfd25d4b9fbd203c99c8f22063:Test",
+      "name": "Test"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "arn:aws:sns:local:df2325cfd25d4b9fbd203c99c8f22063:Test:e949cac0-f9ad-43d6-9f6d-659c5b90d58a",
+      "topic": "arn:aws:sns:local:df2325cfd25d4b9fbd203c99c8f22063:Test",
+      "protocol": "http",
+      "endpoint": "http://203.0.113.0:3000",
+      "created": "2016-11-07T08:24:44.869Z"
+    }
+  ]
+}
